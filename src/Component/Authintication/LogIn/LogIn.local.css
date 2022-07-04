@@ -1,0 +1,8 @@
+.login-card{
+    width: 350px;
+}
+.login-card:hover{
+    background-color: aliceblue;
+    transition: .3s ease-in;
+}
+

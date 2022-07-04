@@ -1,0 +1,6 @@
+.hover-grow:hover{
+    
+    color: #1f2937;
+    transform: scale(1.4);
+    transition: .3s ease;
+}

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cd105ed.css",
+    "main.js": "/static/js/main.ba282588.js",
+    "static/js/787.3e909e9d.chunk.js": "/static/js/787.3e909e9d.chunk.js",
+    "static/media/masjid-nawbi.jpg": "/static/media/masjid-nawbi.785313263e1c8b17000b.jpg",
+    "static/media/bagdad-sharif.jpg": "/static/media/bagdad-sharif.28ca3c5b1b16306b1d97.jpg",
+    "static/media/shrin-hussain.jpg": "/static/media/shrin-hussain.2944e5e889d14fa8f307.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.3cd105ed.css.map": "/static/css/main.3cd105ed.css.map",
+    "main.ba282588.js.map": "/static/js/main.ba282588.js.map",
+    "787.3e909e9d.chunk.js.map": "/static/js/787.3e909e9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd105ed.css",
+    "static/js/main.ba282588.js"
+  ]
+}
